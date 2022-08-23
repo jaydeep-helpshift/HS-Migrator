@@ -3,22 +3,55 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		63DA23AF28AE4004008B9E04 /* HS_MigratorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23AE28AE4004008B9E04 /* HS_MigratorApp.swift */; };
+		63DA23AF28AE4004008B9E04 /* MigratorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23AE28AE4004008B9E04 /* MigratorApp.swift */; };
 		63DA23B128AE4004008B9E04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23B028AE4004008B9E04 /* ContentView.swift */; };
 		63DA23B328AE4005008B9E04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63DA23B228AE4005008B9E04 /* Assets.xcassets */; };
 		63DA23B628AE4005008B9E04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63DA23B528AE4005008B9E04 /* Preview Assets.xcassets */; };
+		63DA23BD28AE40B5008B9E04 /* Keychain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23BC28AE40B5008B9E04 /* Keychain.swift */; };
+		63DA23C028AF7620008B9E04 /* Helpshift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63DA23BE28AF7618008B9E04 /* Helpshift.xcframework */; };
+		63DA23C128AF7620008B9E04 /* Helpshift.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 63DA23BE28AF7618008B9E04 /* Helpshift.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		63DA23CA28AF7A9E008B9E04 /* MigratorXApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23C928AF7A9E008B9E04 /* MigratorXApp.swift */; };
+		63DA23CC28AF7A9E008B9E04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23CB28AF7A9E008B9E04 /* ContentView.swift */; };
+		63DA23CE28AF7A9E008B9E04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63DA23CD28AF7A9E008B9E04 /* Assets.xcassets */; };
+		63DA23D128AF7A9E008B9E04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63DA23D028AF7A9E008B9E04 /* Preview Assets.xcassets */; };
+		63DA23D728AF7B76008B9E04 /* HelpshiftX in Frameworks */ = {isa = PBXBuildFile; productRef = 63DA23D628AF7B76008B9E04 /* HelpshiftX */; };
+		63DA23D828AF8CD1008B9E04 /* Keychain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23BC28AE40B5008B9E04 /* Keychain.swift */; };
+		63DA23DA28AF8CDF008B9E04 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23D928AF8CDF008B9E04 /* Extensions.swift */; };
+		63DA23DB28AF8CDF008B9E04 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23D928AF8CDF008B9E04 /* Extensions.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		63DA23C228AF7620008B9E04 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				63DA23C128AF7620008B9E04 /* Helpshift.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		63DA23AB28AE4004008B9E04 /* HS Migrator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HS Migrator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		63DA23AE28AE4004008B9E04 /* HS_MigratorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HS_MigratorApp.swift; sourceTree = "<group>"; };
+		63DA23AE28AE4004008B9E04 /* MigratorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MigratorApp.swift; sourceTree = "<group>"; };
 		63DA23B028AE4004008B9E04 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		63DA23B228AE4005008B9E04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63DA23B528AE4005008B9E04 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		63DA23BC28AE40B5008B9E04 /* Keychain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keychain.swift; sourceTree = "<group>"; };
+		63DA23BE28AF7618008B9E04 /* Helpshift.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Helpshift.xcframework; sourceTree = "<group>"; };
+		63DA23C728AF7A9E008B9E04 /* HS Migrator X.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HS Migrator X.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63DA23C928AF7A9E008B9E04 /* MigratorXApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MigratorXApp.swift; sourceTree = "<group>"; };
+		63DA23CB28AF7A9E008B9E04 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		63DA23CD28AF7A9E008B9E04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		63DA23D028AF7A9E008B9E04 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		63DA23D928AF8CDF008B9E04 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +59,15 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63DA23C028AF7620008B9E04 /* Helpshift.xcframework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		63DA23C428AF7A9E008B9E04 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63DA23D728AF7B76008B9E04 /* HelpshiftX in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -36,6 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				63DA23AD28AE4004008B9E04 /* HS Migrator */,
+				63DA23C828AF7A9E008B9E04 /* HS Migrator X */,
 				63DA23AC28AE4004008B9E04 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -44,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				63DA23AB28AE4004008B9E04 /* HS Migrator.app */,
+				63DA23C728AF7A9E008B9E04 /* HS Migrator X.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -51,8 +95,11 @@
 		63DA23AD28AE4004008B9E04 /* HS Migrator */ = {
 			isa = PBXGroup;
 			children = (
-				63DA23AE28AE4004008B9E04 /* HS_MigratorApp.swift */,
+				63DA23BE28AF7618008B9E04 /* Helpshift.xcframework */,
+				63DA23AE28AE4004008B9E04 /* MigratorApp.swift */,
 				63DA23B028AE4004008B9E04 /* ContentView.swift */,
+				63DA23BC28AE40B5008B9E04 /* Keychain.swift */,
+				63DA23D928AF8CDF008B9E04 /* Extensions.swift */,
 				63DA23B228AE4005008B9E04 /* Assets.xcassets */,
 				63DA23B428AE4005008B9E04 /* Preview Content */,
 			);
@@ -67,6 +114,25 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		63DA23C828AF7A9E008B9E04 /* HS Migrator X */ = {
+			isa = PBXGroup;
+			children = (
+				63DA23C928AF7A9E008B9E04 /* MigratorXApp.swift */,
+				63DA23CB28AF7A9E008B9E04 /* ContentView.swift */,
+				63DA23CD28AF7A9E008B9E04 /* Assets.xcassets */,
+				63DA23CF28AF7A9E008B9E04 /* Preview Content */,
+			);
+			path = "HS Migrator X";
+			sourceTree = "<group>";
+		};
+		63DA23CF28AF7A9E008B9E04 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				63DA23D028AF7A9E008B9E04 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -77,6 +143,7 @@
 				63DA23A728AE4004008B9E04 /* Sources */,
 				63DA23A828AE4004008B9E04 /* Frameworks */,
 				63DA23A928AE4004008B9E04 /* Resources */,
+				63DA23C228AF7620008B9E04 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -85,6 +152,26 @@
 			name = "HS Migrator";
 			productName = "HS Migrator";
 			productReference = 63DA23AB28AE4004008B9E04 /* HS Migrator.app */;
+			productType = "com.apple.product-type.application";
+		};
+		63DA23C628AF7A9E008B9E04 /* HS Migrator X */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 63DA23D228AF7A9E008B9E04 /* Build configuration list for PBXNativeTarget "HS Migrator X" */;
+			buildPhases = (
+				63DA23C328AF7A9E008B9E04 /* Sources */,
+				63DA23C428AF7A9E008B9E04 /* Frameworks */,
+				63DA23C528AF7A9E008B9E04 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "HS Migrator X";
+			packageProductDependencies = (
+				63DA23D628AF7B76008B9E04 /* HelpshiftX */,
+			);
+			productName = "HS Migrator X";
+			productReference = 63DA23C728AF7A9E008B9E04 /* HS Migrator X.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,10 +187,13 @@
 					63DA23AA28AE4004008B9E04 = {
 						CreatedOnToolsVersion = 14.0;
 					};
+					63DA23C628AF7A9E008B9E04 = {
+						CreatedOnToolsVersion = 14.0;
+					};
 				};
 			};
 			buildConfigurationList = 63DA23A628AE4004008B9E04 /* Build configuration list for PBXProject "HS Migrator" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -111,11 +201,15 @@
 				Base,
 			);
 			mainGroup = 63DA23A228AE4004008B9E04;
+			packageReferences = (
+				63DA23D528AF7B76008B9E04 /* XCRemoteSwiftPackageReference "HelpshiftX" */,
+			);
 			productRefGroup = 63DA23AC28AE4004008B9E04 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				63DA23AA28AE4004008B9E04 /* HS Migrator */,
+				63DA23C628AF7A9E008B9E04 /* HS Migrator X */,
 			);
 		};
 /* End PBXProject section */
@@ -130,6 +224,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		63DA23C528AF7A9E008B9E04 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63DA23D128AF7A9E008B9E04 /* Preview Assets.xcassets in Resources */,
+				63DA23CE28AF7A9E008B9E04 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -138,7 +241,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				63DA23B128AE4004008B9E04 /* ContentView.swift in Sources */,
-				63DA23AF28AE4004008B9E04 /* HS_MigratorApp.swift in Sources */,
+				63DA23AF28AE4004008B9E04 /* MigratorApp.swift in Sources */,
+				63DA23BD28AE40B5008B9E04 /* Keychain.swift in Sources */,
+				63DA23DA28AF8CDF008B9E04 /* Extensions.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		63DA23C328AF7A9E008B9E04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63DA23CC28AF7A9E008B9E04 /* ContentView.swift in Sources */,
+				63DA23CA28AF7A9E008B9E04 /* MigratorXApp.swift in Sources */,
+				63DA23D828AF8CD1008B9E04 /* Keychain.swift in Sources */,
+				63DA23DB28AF8CDF008B9E04 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,16 +386,18 @@
 				DEVELOPMENT_TEAM = 75WN78RS4G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "HS Migrator";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.helpshift.demo.HS-Migrator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -299,16 +417,80 @@
 				DEVELOPMENT_TEAM = 75WN78RS4G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "HS Migrator";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.helpshift.demo.HS-Migrator";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		63DA23D328AF7A9E008B9E04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"HS Migrator X/Preview Content\"";
+				DEVELOPMENT_TEAM = 75WN78RS4G;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "HS Migrator X";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.helpshift.demo.HS-Migrator";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		63DA23D428AF7A9E008B9E04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"HS Migrator X/Preview Content\"";
+				DEVELOPMENT_TEAM = 75WN78RS4G;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "HS Migrator X";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.helpshift.demo.HS-Migrator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -338,7 +520,35 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		63DA23D228AF7A9E008B9E04 /* Build configuration list for PBXNativeTarget "HS Migrator X" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				63DA23D328AF7A9E008B9E04 /* Debug */,
+				63DA23D428AF7A9E008B9E04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		63DA23D528AF7B76008B9E04 /* XCRemoteSwiftPackageReference "HelpshiftX" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/helpshift/HelpshiftX";
+			requirement = {
+				kind = exactVersion;
+				version = 10.1.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		63DA23D628AF7B76008B9E04 /* HelpshiftX */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 63DA23D528AF7B76008B9E04 /* XCRemoteSwiftPackageReference "HelpshiftX" */;
+			productName = HelpshiftX;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 63DA23A328AE4004008B9E04 /* Project object */;
 }
