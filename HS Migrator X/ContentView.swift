@@ -49,8 +49,10 @@ struct ContentView: View {
             .foregroundColor(.red)
         }
         .padding()
-        .task {
-            await keychain.dumpKeychain()
+        .onAppear {
+            Task {
+                await keychain.dumpKeychain()
+            }
         }
     }
 
