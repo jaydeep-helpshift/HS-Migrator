@@ -25,6 +25,7 @@ struct ContentView: View {
         Text("Migration status : \(ui.0)").foregroundColor(ui.1)
         VStack {
             Button("Show Conversation") {
+                NSLog("USER ACTION - Show Conversation clicked")
                 if let vc = UIApplication.shared.rootViewController() {
                     Helpshift.showConversation(with: vc, config: nil)
                 }
@@ -32,6 +33,7 @@ struct ContentView: View {
             .padding()
             .border(Color.blue)
             Button {
+                NSLog("USER ACTION - Share logs clicked")
                 shareLogs()
             } label: {
                 Label("Share logs", systemImage: "square.and.arrow.up")
@@ -40,6 +42,7 @@ struct ContentView: View {
             }
             Spacer().frame(height: 48)
             Button("Purge Keychain") {
+                NSLog("USER ACTION - Purge Keychain clicked")
                 Task {
                     await keychain.purge()
                 }

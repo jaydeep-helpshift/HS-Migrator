@@ -18,6 +18,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Button("Show Conversation") {
+                NSLog("USER ACTION - Show Conversation clicked")
                 if let vc = UIApplication.shared.rootViewController() {
                     HelpshiftSupport.showConversation(vc, with: nil)
                 }
@@ -26,6 +27,7 @@ struct ContentView: View {
             .border(Color.blue)
             Spacer().frame(height: 48)
             Button("Purge Keychain") {
+                NSLog("USER ACTION - Purge Keychain clicked")
                 Task {
                     await keychain.purge()
                 }

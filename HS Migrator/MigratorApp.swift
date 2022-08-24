@@ -8,13 +8,10 @@
 import SwiftUI
 import Helpshift
 
-@main
-struct MigratorApp: App {
-    private let keychain = Keychain(account: "com.helpshift.demo.hs-migrator")
+class AppDelegate: NSObject, UIApplicationDelegate {
 
-    init() {
-        // Redirect all NSLog to a log file
-        MigratorApp.redirectConsoleLogToFile()
+    func application(_ application: UIApplication,
+                     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
         HelpshiftCore.initialize(with: HelpshiftSupport.sharedInstance())
         let builder = HelpshiftInstallConfigBuilder()
         builder.enableLogging = true
@@ -22,6 +19,18 @@ struct MigratorApp: App {
                               domainName: "gayatri.helpshift.com",
                               appID: "gayatri_platform_20210517094841070-0ec9c3c3ce3dec6",
                               with: builder.build())
+        return true
+    }
+}
+
+@main
+struct MigratorApp: App {
+    private let keychain = Keychain(account: "com.helpshift.demo.hs-migrator")
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+
+    init() {
+        // Redirect all NSLog to a log file
+        MigratorApp.redirectConsoleLogToFile()
     }
 
     var body: some Scene {

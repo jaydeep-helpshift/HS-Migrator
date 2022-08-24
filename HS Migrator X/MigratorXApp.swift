@@ -8,14 +8,11 @@
 import SwiftUI
 import HelpshiftX
 
-@main
-struct MigratorXApp: App {
-    private let keychain = Keychain(account: "com.helpshift.demo.hs-migrator")
-    let didMigrationSucceed: Bool?
+class AppDelegate: NSObject, UIApplicationDelegate {
+    var didMigrationSucceed: Bool?
 
-    init() {
-        // Redirect all NSLog to a log file
-        MigratorXApp.redirectConsoleLogToFile()
+    func application(_ application: UIApplication,
+                     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
         let config = ["enableLogging": true]
         Helpshift.install(withPlatformId: "gayatri_platform_20210517094841070-0ec9c3c3ce3dec6",
                           domain: "gayatri.helpshift.com",
@@ -29,11 +26,23 @@ struct MigratorXApp: App {
         } else {
             didMigrationSucceed = nil
         }
+        return true
+    }
+}
+
+@main
+struct MigratorXApp: App {
+    private let keychain = Keychain(account: "com.helpshift.demo.hs-migrator")
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+
+    init() {
+        // Redirect all NSLog to a log file
+        MigratorXApp.redirectConsoleLogToFile()
     }
 
     var body: some Scene {
         WindowGroup {
-            ContentView(keychain: keychain, didMigrationSucceed: didMigrationSucceed)
+            ContentView(keychain: keychain, didMigrationSucceed: appDelegate.didMigrationSucceed)
         }
     }
 

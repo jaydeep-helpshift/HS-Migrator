@@ -39,6 +39,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6304A58F28B605C000DAFF8F /* HS Migrator X.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "HS Migrator X.entitlements"; sourceTree = "<group>"; };
+		6304A59028B605DE00DAFF8F /* HS Migrator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "HS Migrator.entitlements"; sourceTree = "<group>"; };
 		63DA23AB28AE4004008B9E04 /* HS Migrator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HS Migrator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63DA23AE28AE4004008B9E04 /* MigratorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MigratorApp.swift; sourceTree = "<group>"; };
 		63DA23B028AE4004008B9E04 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 		63DA23AD28AE4004008B9E04 /* HS Migrator */ = {
 			isa = PBXGroup;
 			children = (
+				6304A59028B605DE00DAFF8F /* HS Migrator.entitlements */,
 				63DA23BE28AF7618008B9E04 /* Helpshift.xcframework */,
 				63DA23AE28AE4004008B9E04 /* MigratorApp.swift */,
 				63DA23B028AE4004008B9E04 /* ContentView.swift */,
@@ -117,6 +120,7 @@
 		63DA23C828AF7A9E008B9E04 /* HS Migrator X */ = {
 			isa = PBXGroup;
 			children = (
+				6304A58F28B605C000DAFF8F /* HS Migrator X.entitlements */,
 				63DA23C928AF7A9E008B9E04 /* MigratorXApp.swift */,
 				63DA23CB28AF7A9E008B9E04 /* ContentView.swift */,
 				63DA23CD28AF7A9E008B9E04 /* Assets.xcassets */,
@@ -380,6 +384,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "HS Migrator/HS Migrator.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"HS Migrator/Preview Content\"";
@@ -411,6 +416,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "HS Migrator/HS Migrator.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"HS Migrator/Preview Content\"";
@@ -442,6 +448,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "HS Migrator X/HS Migrator X.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"HS Migrator X/Preview Content\"";
@@ -473,6 +480,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "HS Migrator X/HS Migrator X.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"HS Migrator X/Preview Content\"";
