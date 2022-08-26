@@ -81,6 +81,9 @@ struct ContentView: View {
         } else {
             vc = UIActivityViewController(activityItems: logFiles,
                                           applicationActivities: nil)
+            if UIDevice.current.userInterfaceIdiom == .pad {
+                vc?.popoverPresentationController?.sourceView = HostingView(rootView: self)
+            }
         }
 
         if let root = UIApplication.shared.rootViewController(), let vc = vc {
@@ -94,8 +97,12 @@ struct ContentView: View {
         let mail = MFMailComposeViewController()
         mail.mailComposeDelegate = mailDelegate
         mail.setToRecipients(["jaydeep@helpshift.com"])
-        mail.setSubject("Migration Logs")
-        mail.setMessageBody("Attached logs", isHTML: false)
+        if let success = didMigrationSucceed {
+            mail.setSubject("Migration Status - \(success ? "Success" : "Failure")")
+        } else {
+            mail.setSubject("Migration Status - Unknown")
+        }
+        mail.setMessageBody("iOS Version - \(UIDevice.current.systemVersion)", isHTML: false)
         for file in logFiles {
             if let data = try? Data(contentsOf: file) {
                 mail.addAttachmentData(data, mimeType: "text/txt", fileName: file.lastPathComponent)
@@ -110,6 +117,33 @@ private class MailDelegate: NSObject, MFMailComposeViewControllerDelegate {
         controller.dismiss(animated: true)
     }
 }
+
+class HostingView<T: View>: UIView {
+    private(set) var hostingController: UIHostingController<T>
+
+    var rootView: T {
+        get { hostingController.rootView }
+        set { hostingController.rootView = newValue }
+    }
+
+    init(rootView: T, frame: CGRect = .zero) {
+        hostingController = UIHostingController(rootView: rootView)
+
+        super.init(frame: frame)
+
+        backgroundColor = .clear
+        hostingController.view.backgroundColor = backgroundColor
+        hostingController.view.frame = self.bounds
+        hostingController.view.autoresizingMask = [.flexibleWidth, .flexibleHeight]
+
+        addSubview(hostingController.view)
+    }
+
+    required init?(coder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+}
+
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {

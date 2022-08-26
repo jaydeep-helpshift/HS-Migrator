@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6304A59D28B759A700DAFF8F /* HelpshiftX.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6304A59B28B7599F00DAFF8F /* HelpshiftX.xcframework */; };
+		6304A59E28B759A700DAFF8F /* HelpshiftX.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6304A59B28B7599F00DAFF8F /* HelpshiftX.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		63DA23AF28AE4004008B9E04 /* MigratorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23AE28AE4004008B9E04 /* MigratorApp.swift */; };
 		63DA23B128AE4004008B9E04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23B028AE4004008B9E04 /* ContentView.swift */; };
 		63DA23B328AE4005008B9E04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63DA23B228AE4005008B9E04 /* Assets.xcassets */; };
@@ -18,13 +20,23 @@
 		63DA23CC28AF7A9E008B9E04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23CB28AF7A9E008B9E04 /* ContentView.swift */; };
 		63DA23CE28AF7A9E008B9E04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63DA23CD28AF7A9E008B9E04 /* Assets.xcassets */; };
 		63DA23D128AF7A9E008B9E04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63DA23D028AF7A9E008B9E04 /* Preview Assets.xcassets */; };
-		63DA23D728AF7B76008B9E04 /* HelpshiftX in Frameworks */ = {isa = PBXBuildFile; productRef = 63DA23D628AF7B76008B9E04 /* HelpshiftX */; };
 		63DA23D828AF8CD1008B9E04 /* Keychain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23BC28AE40B5008B9E04 /* Keychain.swift */; };
 		63DA23DA28AF8CDF008B9E04 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23D928AF8CDF008B9E04 /* Extensions.swift */; };
 		63DA23DB28AF8CDF008B9E04 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DA23D928AF8CDF008B9E04 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		6304A59F28B759A700DAFF8F /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				6304A59E28B759A700DAFF8F /* HelpshiftX.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		63DA23C228AF7620008B9E04 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -41,6 +53,7 @@
 /* Begin PBXFileReference section */
 		6304A58F28B605C000DAFF8F /* HS Migrator X.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "HS Migrator X.entitlements"; sourceTree = "<group>"; };
 		6304A59028B605DE00DAFF8F /* HS Migrator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "HS Migrator.entitlements"; sourceTree = "<group>"; };
+		6304A59B28B7599F00DAFF8F /* HelpshiftX.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = HelpshiftX.xcframework; sourceTree = "<group>"; };
 		63DA23AB28AE4004008B9E04 /* HS Migrator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HS Migrator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63DA23AE28AE4004008B9E04 /* MigratorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MigratorApp.swift; sourceTree = "<group>"; };
 		63DA23B028AE4004008B9E04 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63DA23D728AF7B76008B9E04 /* HelpshiftX in Frameworks */,
+				6304A59D28B759A700DAFF8F /* HelpshiftX.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -120,6 +133,7 @@
 		63DA23C828AF7A9E008B9E04 /* HS Migrator X */ = {
 			isa = PBXGroup;
 			children = (
+				6304A59B28B7599F00DAFF8F /* HelpshiftX.xcframework */,
 				6304A58F28B605C000DAFF8F /* HS Migrator X.entitlements */,
 				63DA23C928AF7A9E008B9E04 /* MigratorXApp.swift */,
 				63DA23CB28AF7A9E008B9E04 /* ContentView.swift */,
@@ -165,6 +179,7 @@
 				63DA23C328AF7A9E008B9E04 /* Sources */,
 				63DA23C428AF7A9E008B9E04 /* Frameworks */,
 				63DA23C528AF7A9E008B9E04 /* Resources */,
+				6304A59F28B759A700DAFF8F /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -172,7 +187,6 @@
 			);
 			name = "HS Migrator X";
 			packageProductDependencies = (
-				63DA23D628AF7B76008B9E04 /* HelpshiftX */,
 			);
 			productName = "HS Migrator X";
 			productReference = 63DA23C728AF7A9E008B9E04 /* HS Migrator X.app */;
@@ -206,7 +220,6 @@
 			);
 			mainGroup = 63DA23A228AE4004008B9E04;
 			packageReferences = (
-				63DA23D528AF7B76008B9E04 /* XCRemoteSwiftPackageReference "HelpshiftX" */,
 			);
 			productRefGroup = 63DA23AC28AE4004008B9E04 /* Products */;
 			projectDirPath = "";
@@ -538,25 +551,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		63DA23D528AF7B76008B9E04 /* XCRemoteSwiftPackageReference "HelpshiftX" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/helpshift/HelpshiftX";
-			requirement = {
-				kind = exactVersion;
-				version = 10.1.1;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		63DA23D628AF7B76008B9E04 /* HelpshiftX */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 63DA23D528AF7B76008B9E04 /* XCRemoteSwiftPackageReference "HelpshiftX" */;
-			productName = HelpshiftX;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 63DA23A328AE4004008B9E04 /* Project object */;
 }

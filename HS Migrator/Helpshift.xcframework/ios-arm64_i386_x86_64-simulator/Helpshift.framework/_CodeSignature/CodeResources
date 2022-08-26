@@ -4,17 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/Helpshift.h</key>
+		<data>
+		SossOf28ZHs55nGyJoQqkNqcH3Q=
+		</data>
+		<key>Headers/HelpshiftAll.h</key>
+		<data>
+		s3c7qhHhWfTq2aMxgoXQqrPKrt4=
+		</data>
+		<key>Headers/HelpshiftCampaigns.h</key>
+		<data>
+		KbniCh/MWhYUMoZauvhLXhwLBOc=
+		</data>
 		<key>Headers/HelpshiftCore.h</key>
 		<data>
 		GG98IxUrygKCIWIlmSiIzyhR4ro=
 		</data>
+		<key>Headers/HelpshiftInbox.h</key>
+		<data>
+		8vIMHs7FeB39XVKbMZFMtQrRqx8=
+		</data>
 		<key>Headers/HelpshiftSupport.h</key>
 		<data>
 		HCTeRrp1NW8/hGtHTVTvM3UNCPg=
-		</data>
-		<key>Headers/Support.h</key>
-		<data>
-		5eO2GcMhVxiVQj7NF1uNBzD4j6U=
 		</data>
 		<key>HelpshiftConfig.plist</key>
 		<data>
@@ -34,11 +46,11 @@
 		</data>
 		<key>HsLocalization.bundle/Info.plist</key>
 		<data>
-		0iTSqTtPtmX6HOQLMq0OXYPs9Io=
+		01+jugY6POA9qXYRpqv/mpsHTRY=
 		</data>
 		<key>HsLocalization.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		XD+RuwbNcBmjpeEKzjie8M7aR7c=
+		5eVCm+oQc+7DPWYlFZ/WeGPo4iU=
 		</data>
 		<key>HsLocalization.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -46,7 +58,7 @@
 		</data>
 		<key>HsLocalization.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		5oggGAR6KphC36zfqVO96rx1s3E=
+		VFPGRusAdYiBd/nVNoKga4RCxMg=
 		</data>
 		<key>HsLocalization.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -508,199 +520,199 @@
 		</dict>
 		<key>HsUIResources.bundle/Assets.car</key>
 		<data>
-		cAvsoN7BJddOoUjutfgGg+2b4Wc=
+		off7Li1YeXxogc6+tbgfIbHG9V0=
 		</data>
 		<key>HsUIResources.bundle/HSFailureView.nib/objects-11.0+.nib</key>
 		<data>
-		ZzG1MiobgNGaGzpS95Y5eL/7iN4=
+		VY3sqnwZMM9MA9BfRN5OdrMqV3U=
 		</data>
 		<key>HsUIResources.bundle/HSFailureView.nib/runtime.nib</key>
 		<data>
-		UOGrN2uDdRe77Kv0vuCJ8AOcwqg=
+		ZKbkM96skQAfgp927vVPZY9uJ5E=
 		</data>
 		<key>HsUIResources.bundle/HSSmartIntentFirstUserMessageCell.nib</key>
 		<data>
-		dG8ozNwgZeXrEsEcacRIPp5BrB4=
+		Kq6d8cd3fH6a5PpxqpduLkYSr/I=
 		</data>
 		<key>HsUIResources.bundle/HSSmartIntentsInChatView.nib/objects-11.0+.nib</key>
 		<data>
-		xB7fsgqKn5EG3nDyGyfQRqRSyb8=
+		sZaTdbeE0oH3sdqAw/IcuSfE/RM=
 		</data>
 		<key>HsUIResources.bundle/HSSmartIntentsInChatView.nib/runtime.nib</key>
 		<data>
-		ooG7bdx73w9q6DiFnyf+LyQF42I=
+		KkP+oj8SJBw62Vb5ChSRNxfdIfA=
 		</data>
 		<key>HsUIResources.bundle/HsConversationDividerCell.nib</key>
 		<data>
-		HoA2KGfLLJ+MPZKH88agC8hfYAw=
+		Eq0XPoCj6uXFWnyoTYS8xmijRtI=
 		</data>
 		<key>HsUIResources.bundle/HsConversationHeaderView.nib</key>
 		<data>
-		xcT0c8mOBtRU1MnApX7eVdTOXT8=
+		ugcG6UvsYWRu4JpTEULRm6xxx9o=
 		</data>
 		<key>HsUIResources.bundle/HsConversationIdTableViewCell.nib</key>
 		<data>
-		7TrO5GzKefFTShD8dNBylzMJeKc=
+		Gb47DcJ6VwBhO/DS0WBnKRStHVE=
 		</data>
 		<key>HsUIResources.bundle/HsConversationRedactedCell.nib</key>
 		<data>
-		tWDp0yP6pdhXv511CIS83Up/Ex0=
+		9TqXktF+8FI3w3f8hLQlCstifaY=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/4Z5-6H-Lep-view-oKQ-cF-fuS.nib/objects-11.0+.nib</key>
 		<data>
-		+7XiayL45s3knsiPDOV2CEGP9uI=
+		hdomc0uWe9u2ZnGFATW3WYcjSNo=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/4Z5-6H-Lep-view-oKQ-cF-fuS.nib/runtime.nib</key>
 		<data>
-		TBYbBbxVA1odrCfxUK09cgLhcgs=
+		hdomc0uWe9u2ZnGFATW3WYcjSNo=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/664-yy-rrW-view-O10-cI-eyM.nib/objects-11.0+.nib</key>
 		<data>
-		vQS5mfUgJA7OtU5U+9YmA9CVplA=
+		g5/RpjqdUCOHm3oM8nL8TOWkUWQ=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/664-yy-rrW-view-O10-cI-eyM.nib/runtime.nib</key>
 		<data>
-		e5GXS30YUKdvLBRySsfQ1Ef+Fo0=
+		qfjzng8MEaOedV13lGzKC2q6Lk0=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/831-v1-NUu-view-Z6B-MM-ZKQ.nib/objects-11.0+.nib</key>
 		<data>
-		EbnREMuWFbxON6OljqkEIrAuq90=
+		78uRpIKCiC/oBHcXLjyx9aOS/DM=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/831-v1-NUu-view-Z6B-MM-ZKQ.nib/runtime.nib</key>
 		<data>
-		e2E6E4OsCuQB4AI3M5ezwWooW70=
+		6UpMi2hATa3oJ6U0DdLG/draOqY=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/H2V-Sn-rTc-view-y7n-KT-YwK.nib/objects-11.0+.nib</key>
 		<data>
-		DpZuklVy0OGBg6O5U/IF8V41a8s=
+		qgvkEdxVW2hX6eBc65sRAVnIO0s=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/H2V-Sn-rTc-view-y7n-KT-YwK.nib/runtime.nib</key>
 		<data>
-		dPtYqzhqdtu5C0QZjNcmcCXmjjc=
+		5nDGtwbTefxLTVG5OzaBq0ILrDA=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsContainerViewController.nib/objects-11.0+.nib</key>
 		<data>
-		bykJj0Fv+IFCVZ/8JckwBEEZtwE=
+		p5ZyuTQcbVSpjBevZHCwUzFs3h0=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsContainerViewController.nib/runtime.nib</key>
 		<data>
-		KMIznwuE5hRVhOiQ70veYgruRP8=
+		p5ZyuTQcbVSpjBevZHCwUzFs3h0=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsNavController.nib/objects-11.0+.nib</key>
 		<data>
-		Jf85pnLlZkdlGMRrLNjmk08e5Gs=
+		K6FSqt2NtV4h374LMXh4ihkLvpw=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsNavController.nib/runtime.nib</key>
 		<data>
-		1k9/AejDacevjNytp+lPglNhZy0=
+		K6FSqt2NtV4h374LMXh4ihkLvpw=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsViewController.nib/objects-11.0+.nib</key>
 		<data>
-		f0O4WZDdk6rs2xL8MlyCTiuW6QQ=
+		dTGRi3k3yrktyYRIuUFle5lsFBE=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsViewController.nib/runtime.nib</key>
 		<data>
-		dQ0rw5wCPwu4OjqNcq6Znc8wCuE=
+		dTGRi3k3yrktyYRIuUFle5lsFBE=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsAttachmentPreviewControllerId.nib/objects-11.0+.nib</key>
 		<data>
-		iiYWvGL0z+wamfbCLmC75cBkZhU=
+		mqGtcVP8SBuNU+s69fl3Z7FMxiA=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsAttachmentPreviewControllerId.nib/runtime.nib</key>
 		<data>
-		nDcnYUMwHXMGKUEW7M2gQ6NFYIA=
+		mqGtcVP8SBuNU+s69fl3Z7FMxiA=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSConversationView.nib/objects-11.0+.nib</key>
 		<data>
-		wjvwvxYaBQRkY984BlI7h0xNy98=
+		ZykCkY3ryf0z+LpEgzRaZaMm/jA=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSConversationView.nib/runtime.nib</key>
 		<data>
-		rGxNrLBnMOFWdLmhASaDFXcBAF0=
+		eG2DXyyTQVpKZ/R2pAbDs7vb3wA=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSNavigationView.nib/objects-11.0+.nib</key>
 		<data>
-		w/dNi3qgZqji3PJtieDnSEN3OVs=
+		RiAC0dSVbMjy6kEuSYBXbnuH4tk=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSNavigationView.nib/runtime.nib</key>
 		<data>
-		G4VTZJr38Qd8cyLLCPbMtdrUTjk=
+		RiAC0dSVbMjy6kEuSYBXbnuH4tk=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSNewConversationView.nib/objects-11.0+.nib</key>
 		<data>
-		Zd7jqXgUom1WKHnT7EuUvnaGKwo=
+		4kDBwdEjCeIuA0wzXU0D56tG3Jk=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSNewConversationView.nib/runtime.nib</key>
 		<data>
-		WAUoxv6SRJA0DcffVCjuCzf/RSE=
+		4kDBwdEjCeIuA0wzXU0D56tG3Jk=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsListPickerViewController.nib/objects-11.0+.nib</key>
 		<data>
-		DQ34sMnjibQmY2UkliBWwhxYyqo=
+		rviJWXzoHdjtt3t4XawUVLc7TnA=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsListPickerViewController.nib/runtime.nib</key>
 		<data>
-		z1anlaC0WttSs8HPMNuzqnVOTXc=
+		rviJWXzoHdjtt3t4XawUVLc7TnA=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/IXH-WF-iLf-view-1xK-d9-RX9.nib/objects-11.0+.nib</key>
 		<data>
-		cjFnBQTYH9l1L0jYT7JmeeoL8vw=
+		VKHMqKF1mCgs7GqtgFr3Hp98hJQ=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/IXH-WF-iLf-view-1xK-d9-RX9.nib/runtime.nib</key>
 		<data>
-		Bh5PIKMaUPY3hB4+HCfL9X7F3vg=
+		7oduTfPCGVlLYcHjodjnDy4bGP0=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/Info.plist</key>
 		<data>
-		1RwB+8tVSdjU89arDIw8D2tPy2o=
+		sXV92Sfgel98fedHNZtIcHuf2xU=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/Rxs-4B-sYu-view-FJq-H7-1kd.nib/objects-11.0+.nib</key>
 		<data>
-		I4iBI3Bld0xGVRHkZusk5hSEgBA=
+		xIdfzp6V559uHVVvkGNwVFFmtes=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/Rxs-4B-sYu-view-FJq-H7-1kd.nib/runtime.nib</key>
 		<data>
-		JvzaUfPTZXk+tu0nSVuyBJTF9NI=
+		F5XVDOZBwgBZfGB/WY78oZsTAAs=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/UIViewController-H2V-Sn-rTc.nib/objects-11.0+.nib</key>
 		<data>
-		FoKQHllVDAieDY/0szBUUGZheLE=
+		hxiqj3HOT11ZpOi0JayiJn4+fds=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/UIViewController-H2V-Sn-rTc.nib/runtime.nib</key>
 		<data>
-		4N53/u0jR6ExetcTuh/rgPr1Xf0=
+		hxiqj3HOT11ZpOi0JayiJn4+fds=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/uai-Hk-EQ2-view-dDm-TB-68f.nib/objects-11.0+.nib</key>
 		<data>
-		TDlWRxt2Rgo/Rwx0O7NCBlpd9Qk=
+		oo25yjnkmjNe1hg+8DYilCofits=
 		</data>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/uai-Hk-EQ2-view-dDm-TB-68f.nib/runtime.nib</key>
 		<data>
-		z/8eF5UkQmBAqGqbdFUs2QcXf5Q=
+		3SNrgWf1o9BAX7vE7oKRqSBuJv8=
 		</data>
 		<key>HsUIResources.bundle/HsListPickerCell.nib</key>
 		<data>
-		Aksg9MMEYXj0uSQ3HMnj08B/IEc=
+		m3QpOVUW59cznAKcor1wJKyI+wo=
 		</data>
 		<key>HsUIResources.bundle/HsMultilineTextCell.nib</key>
 		<data>
-		Y9Ygykru9hLCSKdxMZehufFOz4I=
+		/TQLhNblFMTl3xPad7xfZ+o2p1Y=
 		</data>
 		<key>HsUIResources.bundle/HsScreenShotAlertView.nib/objects-11.0+.nib</key>
 		<data>
-		IaKxkN0ZEbPuusGqXtqaC39a+oM=
+		g9OBZY0huCU+HxBBu4JcYPY2Wbg=
 		</data>
 		<key>HsUIResources.bundle/HsScreenShotAlertView.nib/runtime.nib</key>
 		<data>
-		G00CM6Cb9OHRFBhlmA0LgpbTdbc=
+		tc1yYzTINkTYHhIBW35LVLfBz8U=
 		</data>
 		<key>HsUIResources.bundle/Info.plist</key>
 		<data>
-		LWg1waW4DyivkZ7sRhTvlPQn8p8=
+		s4rVK3oXia0bOggKkCE2O/BEltM=
 		</data>
 		<key>HsUIResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		HoDanrIAkml52cSvukojNRjJJhM=
+		+wXu2lTI9DygcSQb/g8l9SfQ87s=
 		</data>
 		<key>HsUIResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -708,11 +720,11 @@
 		</data>
 		<key>HsUIResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		fcfrNyLhWX7tdfOtC8j3HAopHNY=
+		mdzuYz52HHeXkPwkMZrTYXqfIWc=
 		</data>
 		<key>HsUIResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		xueEMqbOecmxEOgdviTrKR64I84=
+		4H3puaDaUtuf61vLWJFJomRCHtA=
 		</data>
 		<key>HsUIResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -720,19 +732,19 @@
 		</data>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/7bK-jq-Zjz-view-r7i-6Z-zg0.nib/objects-9.1+.nib</key>
 		<data>
-		yottVYSQItmQkXdTw0ktZj7NZyc=
+		Kw9Fa1xZva0tjfPrfvbWEXDI2Gg=
 		</data>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/7bK-jq-Zjz-view-r7i-6Z-zg0.nib/runtime.nib</key>
 		<data>
-		eg0QkC06R7tmS9DsAV9M9mn+3g8=
+		K07GF3a0osHbHoQDykt2IDZVBMs=
 		</data>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/Cfc-rW-4mN-view-ooJ-gc-dI8.nib/objects-9.1+.nib</key>
 		<data>
-		h9SRNekUBxhBVhuedSZpo3FfIRc=
+		H2hGnIszvqV49igN2wnYsHIYGWA=
 		</data>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/Cfc-rW-4mN-view-ooJ-gc-dI8.nib/runtime.nib</key>
 		<data>
-		9eGfFG6A1MZp1pbJAWDCVNRLnJ4=
+		H2hGnIszvqV49igN2wnYsHIYGWA=
 		</data>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/Info.plist</key>
 		<data>
@@ -740,167 +752,200 @@
 		</data>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/hsCampaignDetailController.nib/objects-9.1+.nib</key>
 		<data>
-		xxrSmYkfiIux7gIGvePk6FXsy1g=
+		0eTCgkL4sJInci5o4eyPZ1NxGJw=
 		</data>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/hsCampaignDetailController.nib/runtime.nib</key>
 		<data>
-		Gq4B+zpo5L1Sd84JmS7LReEzoZE=
+		0eTCgkL4sJInci5o4eyPZ1NxGJw=
 		</data>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/hsCampaignsInboxNavigationController.nib/objects-9.1+.nib</key>
 		<data>
-		cYXEq/MD0QpQo+AWRzeOyjxqMfk=
+		gw3WXIaQ+oYK7J0shO9bfkNq84Y=
 		</data>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/hsCampaignsInboxNavigationController.nib/runtime.nib</key>
 		<data>
-		xPhArTaiCmN+g+HvQHwlNfSHUA4=
+		E2E8ohroQz2C294iS1Y2ux+qn68=
 		</data>
 		<key>HsUIResources.bundle/hsContactUsFooterView.nib</key>
 		<data>
-		w9+13eXb1PL1b9hj9WgvrO33XEA=
+		YwjnjNGS9c0gkJkRn+7H/gsaBLI=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/Ak4-Ms-8aq-view-8K9-9e-O81.nib/objects-11.0+.nib</key>
 		<data>
-		lcXQSfp8u7E9sbABAN+197IyvHs=
+		FddnHJ98HrkeApx7cWsP6sEt3N4=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/Ak4-Ms-8aq-view-8K9-9e-O81.nib/runtime.nib</key>
 		<data>
-		+qLJ4WOveEd10c0udnkLhwHL424=
+		FddnHJ98HrkeApx7cWsP6sEt3N4=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/HSIOSAuthenticationFailedView.nib/objects-11.0+.nib</key>
 		<data>
-		bxS9IvwNYOd27AtxuL5v1XTii3o=
+		vB+RoVxbXQZvwJmm1JbsExRxNLQ=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/HSIOSAuthenticationFailedView.nib/runtime.nib</key>
 		<data>
-		nBDE5FxCKvkn/4IWWeOtxNRO+1c=
+		vB+RoVxbXQZvwJmm1JbsExRxNLQ=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/HsIssueDetailViewController.nib/objects-11.0+.nib</key>
 		<data>
-		2xob9R6vHfHcOmroog7JisD6iLo=
+		LXqjCTmyebgX0fgsjN+ZPli61c4=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/HsIssueDetailViewController.nib/runtime.nib</key>
 		<data>
-		TJkqZsAhDlVEnqcYeeQHPWoPMsQ=
+		LXqjCTmyebgX0fgsjN+ZPli61c4=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/Info.plist</key>
 		<data>
-		a6yQYz2PCw3+gy9etZt15nT7k0I=
+		to4yG3oIzkbzLa1qFOkZNWCloZk=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/OgE-Vo-gH7-view-t7p-Vv-oLv.nib/objects-11.0+.nib</key>
 		<data>
-		Ir7sG3eLpGmkOWp+cdHkov2a8pI=
+		N6eS8q5+7UPhPtEV+PRke4K13PE=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/OgE-Vo-gH7-view-t7p-Vv-oLv.nib/runtime.nib</key>
 		<data>
-		/mdS22hT/ldAUDg/s6JqEmU7zXA=
+		N6eS8q5+7UPhPtEV+PRke4K13PE=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/QRo-wa-nns-view-Sgn-gW-9hG.nib/objects-11.0+.nib</key>
 		<data>
-		aR/TxFS8AHRdFCAtiS0LkY9r74Q=
+		RoqSWA3AbXuSc2PSjzQsjz0PBgU=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/QRo-wa-nns-view-Sgn-gW-9hG.nib/runtime.nib</key>
 		<data>
-		vypRSPTYRyuyMAWwBa1m7wzKn+A=
+		RoqSWA3AbXuSc2PSjzQsjz0PBgU=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/W3c-II-I4p-view-Khs-L2-CB4.nib/objects-11.0+.nib</key>
 		<data>
-		L5yp4WkCboQSVz/1i6SIgEThJBw=
+		jhLHnZ3N3Zc4yijF9RtIoIk3uNI=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/W3c-II-I4p-view-Khs-L2-CB4.nib/runtime.nib</key>
 		<data>
-		Eo3XfpU6f8ENV1mnCEEwxfH0jec=
+		ha2XSWFH/IWZmNFoODg8o/8DQvU=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/bHR-0N-y1O-view-lu5-pN-Qww.nib/objects-11.0+.nib</key>
 		<data>
-		cl8E6vsh/52xGgwG60qy+GYWoAU=
+		HuRjFYkMbCv1jQx9A042Nh5Fd4g=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/bHR-0N-y1O-view-lu5-pN-Qww.nib/runtime.nib</key>
 		<data>
-		mgYsAMfxTI9sdyTZX4kwZhbFBXM=
+		HuRjFYkMbCv1jQx9A042Nh5Fd4g=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsFAQListViewController.nib/objects-11.0+.nib</key>
 		<data>
-		W6ajlbECuAAr61fqcINJUn1u+4s=
+		r7f8Pl5yJGDEBLzGdxcUoDmfKCQ=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsFAQListViewController.nib/runtime.nib</key>
 		<data>
-		r4Ae+ebXQSjF9nhrren1+Rz8rEw=
+		r7f8Pl5yJGDEBLzGdxcUoDmfKCQ=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSectionsListViewController.nib/objects-11.0+.nib</key>
 		<data>
-		twK1aaIsplM7sq5xXMYM3bsQbRA=
+		ALrBvsJEHZ+1TmIeanWq+F7MCiw=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSectionsListViewController.nib/runtime.nib</key>
 		<data>
-		iynQp1nuBH05ONs+shKvoDoH6a8=
+		ALrBvsJEHZ+1TmIeanWq+F7MCiw=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSingleFaqViewController.nib/objects-11.0+.nib</key>
 		<data>
-		p2uw072d7PPcA47vcpF+ez+OgqU=
+		ORjbfGTXw6ipsrXTqgKpFng2KHw=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSingleFaqViewController.nib/runtime.nib</key>
 		<data>
-		zYHePwOzRSAjkbhZkig+CyXohUM=
+		ORjbfGTXw6ipsrXTqgKpFng2KHw=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSuggestionsVC.nib/objects-11.0+.nib</key>
 		<data>
-		l48fCumCVKe/Ek9h2oRZJZ2VH2Q=
+		he5ygOKl0r5ct4XTvnLHN18IlZ8=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSuggestionsVC.nib/runtime.nib</key>
 		<data>
-		2Djdsad8Dg7S5TdpHe1W0Sy4ln8=
+		he5ygOKl0r5ct4XTvnLHN18IlZ8=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSupportMainNavigationController.nib/objects-11.0+.nib</key>
 		<data>
-		C7sYI83bZJGAyjp2nImPIbL2Kr8=
+		utKi6UNP8Z92oHnH0ZvhTQFAz8k=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSupportMainNavigationController.nib/runtime.nib</key>
 		<data>
-		bFVSKh5kyA5GiOnQ01dGq4fRaeY=
+		utKi6UNP8Z92oHnH0ZvhTQFAz8k=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsiosconvsetupviewcontroller.nib/objects-11.0+.nib</key>
 		<data>
-		4LFz6jy+admb/t+MjPqzEO85Xpw=
+		ExfL8W3J8oOFyvAZFq5VkDkyg6Y=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsiosconvsetupviewcontroller.nib/runtime.nib</key>
 		<data>
-		DMK6YfpuUzi4g16qaKVy8/i6Bog=
+		ExfL8W3J8oOFyvAZFq5VkDkyg6Y=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/kqH-f0-u8v-view-kNu-le-aXA.nib/objects-11.0+.nib</key>
 		<data>
-		kXgv7LtclqYKjQcyOc7gYUC/rPc=
+		ErLqf6y+g6pOG5t/Ohdzw54x/DU=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/kqH-f0-u8v-view-kNu-le-aXA.nib/runtime.nib</key>
 		<data>
-		xVF6tHIlNaMAcunJaPjUN7Q6E5s=
+		ErLqf6y+g6pOG5t/Ohdzw54x/DU=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/nqW-ce-fee-view-IgF-ja-Jdj.nib/objects-11.0+.nib</key>
 		<data>
-		yAtJKKv46GrgC7ObX39TAWcp86k=
+		iYErYafahXuXHYOAqgjqojY/60I=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/nqW-ce-fee-view-IgF-ja-Jdj.nib/runtime.nib</key>
 		<data>
-		73wyEHxa8RCtX8ZgzEVpibJqoRQ=
+		iYErYafahXuXHYOAqgjqojY/60I=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/oOr-js-j6c-view-kMw-KJ-TSz.nib/objects-11.0+.nib</key>
 		<data>
-		ZtpNQz2FeBhvn+53XtrB5pkQcHM=
+		ReBn4zZ7+WnKf1CB0R9+CKj1d6o=
 		</data>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/oOr-js-j6c-view-kMw-KJ-TSz.nib/runtime.nib</key>
 		<data>
-		dtO7nm0MRcXN3xSpY7Z6pqgt3wM=
+		ReBn4zZ7+WnKf1CB0R9+CKj1d6o=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sAw0DxSCGsHsV5pu8rbpUnQx4kQ=
+		JE3O27jRejr8+uH8H21aQPXLyac=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		tnu6yocOQdXGh0GWzh/46mUnVhY=
+		BWCCiYb2v1v5Uz4RNxR+Araxfoc=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/Helpshift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SossOf28ZHs55nGyJoQqkNqcH3Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			Dmbl9Nc9UroMnYzheGlRmm+q+l8FXeDiQpj2KaiQCao=
+			</data>
+		</dict>
+		<key>Headers/HelpshiftAll.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s3c7qhHhWfTq2aMxgoXQqrPKrt4=
+			</data>
+			<key>hash2</key>
+			<data>
+			256gOyF4Pz8MDp1O6c5NXIjBoghxgTkJ7wJz+9mZ6ug=
+			</data>
+		</dict>
+		<key>Headers/HelpshiftCampaigns.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KbniCh/MWhYUMoZauvhLXhwLBOc=
+			</data>
+			<key>hash2</key>
+			<data>
+			z86fkzoHXe/mC8RHUCiuLQcdpU8eWooxUKNrKC68A5s=
+			</data>
+		</dict>
 		<key>Headers/HelpshiftCore.h</key>
 		<dict>
 			<key>hash</key>
@@ -912,6 +957,17 @@
 			yGk36n1oLTtq1lwkaOgIZKaxYvN9+g9GOoCVpT1mtcg=
 			</data>
 		</dict>
+		<key>Headers/HelpshiftInbox.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8vIMHs7FeB39XVKbMZFMtQrRqx8=
+			</data>
+			<key>hash2</key>
+			<data>
+			fYYiPyoL4DEl5Bk7A1ryGvfkSEyz6DYs+DNhAtv9VMQ=
+			</data>
+		</dict>
 		<key>Headers/HelpshiftSupport.h</key>
 		<dict>
 			<key>hash</key>
@@ -921,17 +977,6 @@
 			<key>hash2</key>
 			<data>
 			CTCj0E8Y4NyEcSxvH0nzsVvI14cGtlyjofb2oH0k9A8=
-			</data>
-		</dict>
-		<key>Headers/Support.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5eO2GcMhVxiVQj7NF1uNBzD4j6U=
-			</data>
-			<key>hash2</key>
-			<data>
-			E0n7snAofdly5UFuMneWsz6bMC88ojwHCLYlMX7Ayu4=
 			</data>
 		</dict>
 		<key>HelpshiftConfig.plist</key>
@@ -982,22 +1027,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0iTSqTtPtmX6HOQLMq0OXYPs9Io=
+			01+jugY6POA9qXYRpqv/mpsHTRY=
 			</data>
 			<key>hash2</key>
 			<data>
-			n6NRDC90DUM4pKwPRQImFfRHm9HzbXBpwlw5eyBPo90=
+			aJgjOFP+eeiRpDi9bw4+HHKOp1km0OUNILEQL/iZKKQ=
 			</data>
 		</dict>
 		<key>HsLocalization.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XD+RuwbNcBmjpeEKzjie8M7aR7c=
+			5eVCm+oQc+7DPWYlFZ/WeGPo4iU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xvejq24a+gToio0q0p4pNVaOgqubEuGh03k+6xVC+hM=
+			AHtNCRU3D4d52fhm/Fk9g5QvHiHnjjaeZ7a4Cz1Muz4=
 			</data>
 		</dict>
 		<key>HsLocalization.bundle/_CodeSignature/CodeRequirements</key>
@@ -1015,11 +1060,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5oggGAR6KphC36zfqVO96rx1s3E=
+			VFPGRusAdYiBd/nVNoKga4RCxMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			VlD15kdH6gSZ/jK4YNXji2oW/tlFZG9P73agGBIxPpY=
+			MM0iX/cnG7VuD3CYQi81+EBFLQwuZ525eXsBI8bP/e4=
 			</data>
 		</dict>
 		<key>HsLocalization.bundle/_CodeSignature/CodeResources</key>
@@ -1698,539 +1743,539 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cAvsoN7BJddOoUjutfgGg+2b4Wc=
+			off7Li1YeXxogc6+tbgfIbHG9V0=
 			</data>
 			<key>hash2</key>
 			<data>
-			eLayhORtU+p6zsItF8pRjoAZABReut9f/SQUhr0VoRw=
+			7wm6jeF0VEKF9VjAl1UNlcYv5hrD5XUCmHFBb+tsysw=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HSFailureView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZzG1MiobgNGaGzpS95Y5eL/7iN4=
+			VY3sqnwZMM9MA9BfRN5OdrMqV3U=
 			</data>
 			<key>hash2</key>
 			<data>
-			5+WWvMjayKJHgxqi0+NmDoB207pNjqsftsLpmvgGvpY=
+			1JZc9jzI+y60CtysrA/oUOmDfsAzbmsQJtb1uSTDZ6A=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HSFailureView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UOGrN2uDdRe77Kv0vuCJ8AOcwqg=
+			ZKbkM96skQAfgp927vVPZY9uJ5E=
 			</data>
 			<key>hash2</key>
 			<data>
-			mwWs5kth+Y4WSDGMsvLx4Uk6AVjsJKaS/PalZuUBT/U=
+			KPQ0OAFNpVjFo9ZgQE6CqOaHAjSJt/K8HmeGroynr14=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HSSmartIntentFirstUserMessageCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dG8ozNwgZeXrEsEcacRIPp5BrB4=
+			Kq6d8cd3fH6a5PpxqpduLkYSr/I=
 			</data>
 			<key>hash2</key>
 			<data>
-			c09zyDlPbBNwjHXrbuvatlQ6lxtBN6h5ifRb4/jUK0w=
+			ubDp6aG7hYPmG/esUcsRqVzh85XVF2FE3DSzNmFcBPc=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HSSmartIntentsInChatView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xB7fsgqKn5EG3nDyGyfQRqRSyb8=
+			sZaTdbeE0oH3sdqAw/IcuSfE/RM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vu+lwHiZP/6q6JZlKlIt80wWEI9f+pHaSpuL1Av1z2w=
+			EFmVFhpXitxksy73EPAsBj5wP/b18fDFHegDNZ8NCh4=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HSSmartIntentsInChatView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ooG7bdx73w9q6DiFnyf+LyQF42I=
+			KkP+oj8SJBw62Vb5ChSRNxfdIfA=
 			</data>
 			<key>hash2</key>
 			<data>
-			/1kauR1bXMtV9i7s9bLZKhB1v6Yr2/Mj+GVjeeU8iOU=
+			Nuq4b7fRMf3kTQ/Pfl41lAWspocoxmORQXLU/7n+IsY=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsConversationDividerCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HoA2KGfLLJ+MPZKH88agC8hfYAw=
+			Eq0XPoCj6uXFWnyoTYS8xmijRtI=
 			</data>
 			<key>hash2</key>
 			<data>
-			1HfLdibpPbJzD1SZHFo+SY+N71mF7vEsr6tUdvSaYT0=
+			y3OSOPFevfawJYLykPPnwsH7QD+rr7ymP9Gyqxbcs4Y=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsConversationHeaderView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xcT0c8mOBtRU1MnApX7eVdTOXT8=
+			ugcG6UvsYWRu4JpTEULRm6xxx9o=
 			</data>
 			<key>hash2</key>
 			<data>
-			VTXViX1FmntPf9NxRGaYDa4QgqmETL4YvsLUwLJeqks=
+			F1zRbGCSxafRElo+U7zoqz7cPj4FMntoaCCt8SB6tJk=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsConversationIdTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7TrO5GzKefFTShD8dNBylzMJeKc=
+			Gb47DcJ6VwBhO/DS0WBnKRStHVE=
 			</data>
 			<key>hash2</key>
 			<data>
-			F1GJkq8v+hk1CG9Vp/DcAH/RXxDqbzQXbSu79BleUQo=
+			WsFglp4GmwbHRGfmUIIePWEOQTzv+1tre5vbhuQopbk=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsConversationRedactedCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tWDp0yP6pdhXv511CIS83Up/Ex0=
+			9TqXktF+8FI3w3f8hLQlCstifaY=
 			</data>
 			<key>hash2</key>
 			<data>
-			UjDCLdRddNCnnzUy389hZe0TOZkzE7E+JSBrGxLA4yM=
+			41UbjWWv05gSgCiOTMl0KqADUV6czavfbjdZYUp25bA=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/4Z5-6H-Lep-view-oKQ-cF-fuS.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+7XiayL45s3knsiPDOV2CEGP9uI=
+			hdomc0uWe9u2ZnGFATW3WYcjSNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			scriGdRCCj83Ax/sIoNBWDeav/ZXvKyTZhbgHeItr48=
+			T55ziEjaI+2jRLtW+WhudMFDkQrEBX2BaqVwgyhDVnM=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/4Z5-6H-Lep-view-oKQ-cF-fuS.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TBYbBbxVA1odrCfxUK09cgLhcgs=
+			hdomc0uWe9u2ZnGFATW3WYcjSNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			J748M7SD6O2Spmd3aujIrXopolWxe1amZkcT6HoCpR4=
+			T55ziEjaI+2jRLtW+WhudMFDkQrEBX2BaqVwgyhDVnM=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/664-yy-rrW-view-O10-cI-eyM.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vQS5mfUgJA7OtU5U+9YmA9CVplA=
+			g5/RpjqdUCOHm3oM8nL8TOWkUWQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uQCEG7Kaz+jDway+dlx62F25qQ3QVFASij4ifnFFC94=
+			Bnh5u+M4nueSyB1kxRdgShnKV8e0OEpzKGuC7sGwy5g=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/664-yy-rrW-view-O10-cI-eyM.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e5GXS30YUKdvLBRySsfQ1Ef+Fo0=
+			qfjzng8MEaOedV13lGzKC2q6Lk0=
 			</data>
 			<key>hash2</key>
 			<data>
-			h08RDwmRlc/OATX+pPotKF6vJ5BfYzGjqHN/koAsbGg=
+			jLaZV2zc01NsTB9V4mJIBd6cqEiWibGtF6dXYOMJO/Q=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/831-v1-NUu-view-Z6B-MM-ZKQ.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EbnREMuWFbxON6OljqkEIrAuq90=
+			78uRpIKCiC/oBHcXLjyx9aOS/DM=
 			</data>
 			<key>hash2</key>
 			<data>
-			icatBumWRNqmYdNKCg2jQpOQvZu5URJLvWfLux7sNI0=
+			bt94Wt2bC2UGLae4fKRzXQC7ZR3o6k+jjD/4pVu1JqQ=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/831-v1-NUu-view-Z6B-MM-ZKQ.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e2E6E4OsCuQB4AI3M5ezwWooW70=
+			6UpMi2hATa3oJ6U0DdLG/draOqY=
 			</data>
 			<key>hash2</key>
 			<data>
-			w2bpeToaMswFtXZtCTNYyyCJG++h2p/dqYCqfBJQvMM=
+			M3FN8wVjJTDLqqAwoh+hpMfXumZAR1XJdsWc0SKUBWU=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/H2V-Sn-rTc-view-y7n-KT-YwK.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DpZuklVy0OGBg6O5U/IF8V41a8s=
+			qgvkEdxVW2hX6eBc65sRAVnIO0s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ae+9yn2UtfHCMz5kguOtY4vKDDGDEtyYBoIBpRniEUw=
+			44vq7jwA2rMyhORshWmzEB2fRDp0hNmoHEZL6HyFdzs=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/H2V-Sn-rTc-view-y7n-KT-YwK.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dPtYqzhqdtu5C0QZjNcmcCXmjjc=
+			5nDGtwbTefxLTVG5OzaBq0ILrDA=
 			</data>
 			<key>hash2</key>
 			<data>
-			qM4R5ExrndVyfoi+nBD/1z3i4wZYWFhDidoCJNcpC14=
+			QY08yWtNDWJ6JCbCROv04jiFFzp4TbLWQ3IGeSxLj0o=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsContainerViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bykJj0Fv+IFCVZ/8JckwBEEZtwE=
+			p5ZyuTQcbVSpjBevZHCwUzFs3h0=
 			</data>
 			<key>hash2</key>
 			<data>
-			4zMazzX1/DdROwR7KO0NivpUvZIPgTuqnypIDIX0aiU=
+			G8xOZrl6bjKDXn0kyhXJBHvZtfv02DHOMBkUvTSxadM=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsContainerViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KMIznwuE5hRVhOiQ70veYgruRP8=
+			p5ZyuTQcbVSpjBevZHCwUzFs3h0=
 			</data>
 			<key>hash2</key>
 			<data>
-			z5M2mexmcy//Q39AgXAWg/EZyT9BP+q4h59hMxdEIa0=
+			G8xOZrl6bjKDXn0kyhXJBHvZtfv02DHOMBkUvTSxadM=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsNavController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Jf85pnLlZkdlGMRrLNjmk08e5Gs=
+			K6FSqt2NtV4h374LMXh4ihkLvpw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gdqj4IMgcQnQ5Z9kSf/v7CqljWzGE2FF31n24FwH12A=
+			OqjIlsBAfmQ9gp18/eougFyKD6kD2tz6JF2xcmeB6kQ=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsNavController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1k9/AejDacevjNytp+lPglNhZy0=
+			K6FSqt2NtV4h374LMXh4ihkLvpw=
 			</data>
 			<key>hash2</key>
 			<data>
-			iWHVW1Y4SHLONPhFJQTAbqrUrJc2KlIiy6BUJfNhyeA=
+			OqjIlsBAfmQ9gp18/eougFyKD6kD2tz6JF2xcmeB6kQ=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f0O4WZDdk6rs2xL8MlyCTiuW6QQ=
+			dTGRi3k3yrktyYRIuUFle5lsFBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			UKqUQBlnWZ6pmsE/Gt0Lycc2M6vcE+pU5G3txiZAKzs=
+			VozqXtgyj+BbFmvZ9mOb/HoQO1IL2Ywk+SR6GDqxTHg=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HSSmartIntentsViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dQ0rw5wCPwu4OjqNcq6Znc8wCuE=
+			dTGRi3k3yrktyYRIuUFle5lsFBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			P5J71wkuCxUhEaA6D2tAXiLKh209n4fySakafAX8qyQ=
+			VozqXtgyj+BbFmvZ9mOb/HoQO1IL2Ywk+SR6GDqxTHg=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsAttachmentPreviewControllerId.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iiYWvGL0z+wamfbCLmC75cBkZhU=
+			mqGtcVP8SBuNU+s69fl3Z7FMxiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			sYd0Qfy7vAAAVpYP8+kIyNwIM+fVqwTirnlN1HhVhQk=
+			eW4qd/Za5elKQdUQf1VxHT2rezcMp8AGSU07s+H6w6c=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsAttachmentPreviewControllerId.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nDcnYUMwHXMGKUEW7M2gQ6NFYIA=
+			mqGtcVP8SBuNU+s69fl3Z7FMxiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			qvVD8KDPw5MHb5p22bStvRJUamCvJ0EBIN3AAVNJK9g=
+			eW4qd/Za5elKQdUQf1VxHT2rezcMp8AGSU07s+H6w6c=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSConversationView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wjvwvxYaBQRkY984BlI7h0xNy98=
+			ZykCkY3ryf0z+LpEgzRaZaMm/jA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Eae/1MwzWAEPzL0iKvVxib22WY7tmUK/OnewlwM6KFc=
+			5oHpDn9xfouM6r0wBeS/88LWs5OsmlgJdPOMYImYjYU=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSConversationView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rGxNrLBnMOFWdLmhASaDFXcBAF0=
+			eG2DXyyTQVpKZ/R2pAbDs7vb3wA=
 			</data>
 			<key>hash2</key>
 			<data>
-			YxNzs38paGESmWA+prdjpALwEqC7Ytsckke+VJMOnr4=
+			1vZbIA/+0XQvRWydY5JJ0uryDoKgMPUEtOCH/kwljpQ=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSNavigationView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w/dNi3qgZqji3PJtieDnSEN3OVs=
+			RiAC0dSVbMjy6kEuSYBXbnuH4tk=
 			</data>
 			<key>hash2</key>
 			<data>
-			rv8U4bfcJiDhX7pGWAUJsICVL6CbUK9kAzcLzH8NroU=
+			ySN1Sd9YnAz7N5+oJDemY8SKk+sWoQMvCHZA5ikJ5mU=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSNavigationView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G4VTZJr38Qd8cyLLCPbMtdrUTjk=
+			RiAC0dSVbMjy6kEuSYBXbnuH4tk=
 			</data>
 			<key>hash2</key>
 			<data>
-			3xPGgRX6WTp3lQNUZ2O1cg5zUf3Zjd1PkXp1prfvHsA=
+			ySN1Sd9YnAz7N5+oJDemY8SKk+sWoQMvCHZA5ikJ5mU=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSNewConversationView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zd7jqXgUom1WKHnT7EuUvnaGKwo=
+			4kDBwdEjCeIuA0wzXU0D56tG3Jk=
 			</data>
 			<key>hash2</key>
 			<data>
-			9MReCcSDb3h73f6HFzrWDtYGYTc97fmxbZZS27C3qBY=
+			ZKUKyFr7HmgPYwKUqm+8fx4YY31Bx1PI3K/YOJGg52E=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsIOSNewConversationView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WAUoxv6SRJA0DcffVCjuCzf/RSE=
+			4kDBwdEjCeIuA0wzXU0D56tG3Jk=
 			</data>
 			<key>hash2</key>
 			<data>
-			APMgYQw+7VHIGOOvhLFWkfkNNWyCJARxRelMmH3YcUw=
+			ZKUKyFr7HmgPYwKUqm+8fx4YY31Bx1PI3K/YOJGg52E=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsListPickerViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DQ34sMnjibQmY2UkliBWwhxYyqo=
+			rviJWXzoHdjtt3t4XawUVLc7TnA=
 			</data>
 			<key>hash2</key>
 			<data>
-			duamKSVW6PDTNFNYtQiWRaOFOPqGjhwY+7G8dDR6f6s=
+			3qCqSIWGT5fb9oIGB4RKfKeSo/+d6QWo4s8kkkS9gLo=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/HsListPickerViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z1anlaC0WttSs8HPMNuzqnVOTXc=
+			rviJWXzoHdjtt3t4XawUVLc7TnA=
 			</data>
 			<key>hash2</key>
 			<data>
-			/mDEQB8T9PSTzhGrERhlEA6npCctg9sviJpSpvhoZ/0=
+			3qCqSIWGT5fb9oIGB4RKfKeSo/+d6QWo4s8kkkS9gLo=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/IXH-WF-iLf-view-1xK-d9-RX9.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cjFnBQTYH9l1L0jYT7JmeeoL8vw=
+			VKHMqKF1mCgs7GqtgFr3Hp98hJQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			8k5PcpbMOgzBn2e3ho7X9wKeDx98NonSZWDVlIMPmaM=
+			2cCSWpBxr3yVjNRJh1i3RRVWcP2eyDJhEmTlQD0T1cg=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/IXH-WF-iLf-view-1xK-d9-RX9.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bh5PIKMaUPY3hB4+HCfL9X7F3vg=
+			7oduTfPCGVlLYcHjodjnDy4bGP0=
 			</data>
 			<key>hash2</key>
 			<data>
-			cAJKekDzkjRLM3sSuun8YBoEm3AjUjmaOc1Wv10LYYY=
+			Tnz4YbWuOi0FzZ2Tj1LFlIdnyyppTcaeqiO50hIXS4A=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1RwB+8tVSdjU89arDIw8D2tPy2o=
+			sXV92Sfgel98fedHNZtIcHuf2xU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wV+nnatVa3Ht0Zlce+YrkFsVgrLnEiyvYUIASxQJS9A=
+			VOHBgF6vIutvF/nAIjdqEQnvbnQv15HmVo6EO3D9USw=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/Rxs-4B-sYu-view-FJq-H7-1kd.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I4iBI3Bld0xGVRHkZusk5hSEgBA=
+			xIdfzp6V559uHVVvkGNwVFFmtes=
 			</data>
 			<key>hash2</key>
 			<data>
-			d0jkqU5IQZ6RRnYgSSvHrLeEL+Ox471uR8rE4K4YIGM=
+			LvJN8mttHN5Yt9khsXlYFT1wVpm5cqTdWe88e3hHdTg=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/Rxs-4B-sYu-view-FJq-H7-1kd.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JvzaUfPTZXk+tu0nSVuyBJTF9NI=
+			F5XVDOZBwgBZfGB/WY78oZsTAAs=
 			</data>
 			<key>hash2</key>
 			<data>
-			zDWvJwxqO8t9CRez2cTs9XWV8HOIKsRl1ffxC9CJZUA=
+			Aa5dkbqWG54CZkB6emiPAxrKlgo+RQJfS+jeh6gSYvo=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/UIViewController-H2V-Sn-rTc.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FoKQHllVDAieDY/0szBUUGZheLE=
+			hxiqj3HOT11ZpOi0JayiJn4+fds=
 			</data>
 			<key>hash2</key>
 			<data>
-			O5Igoa+OhdRHOdDHj4FhhNTeGqg0mtRo9P7/xjvwQHE=
+			c5w+arU3kkD6ozaBoGBMgHl1rPJto9AbkU67O1JJ/PA=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/UIViewController-H2V-Sn-rTc.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4N53/u0jR6ExetcTuh/rgPr1Xf0=
+			hxiqj3HOT11ZpOi0JayiJn4+fds=
 			</data>
 			<key>hash2</key>
 			<data>
-			ihl/7d3wkg1enJyEXGpT0kFZ3RtL1faOvo2KUPNxGpM=
+			c5w+arU3kkD6ozaBoGBMgHl1rPJto9AbkU67O1JJ/PA=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/uai-Hk-EQ2-view-dDm-TB-68f.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TDlWRxt2Rgo/Rwx0O7NCBlpd9Qk=
+			oo25yjnkmjNe1hg+8DYilCofits=
 			</data>
 			<key>hash2</key>
 			<data>
-			LNJqlGySq08kvqKmXMS8A1TlUmhpkcRsRlLAmpTfglo=
+			KVyxA/ZwWYtFw6XCpk2wn0o+f6FAlqymIWyVRVdz+zE=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsIOSConversation.storyboardc/uai-Hk-EQ2-view-dDm-TB-68f.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z/8eF5UkQmBAqGqbdFUs2QcXf5Q=
+			3SNrgWf1o9BAX7vE7oKRqSBuJv8=
 			</data>
 			<key>hash2</key>
 			<data>
-			RY5kdInS/IdFWjnDEwHIz1sVP6zMJ6xM5Ay65eUPJtc=
+			OIr1DO99AaTbhy0+WfgkUsVQwlkq8uyZ0/Lx43tz334=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsListPickerCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aksg9MMEYXj0uSQ3HMnj08B/IEc=
+			m3QpOVUW59cznAKcor1wJKyI+wo=
 			</data>
 			<key>hash2</key>
 			<data>
-			KS3dOhv8RO2Ib0s2SfeM2n/oybSYQUeJuU9apUUNFCw=
+			cQ0qw2b37R26+PKTUuSr1urQJdpFOFbT/5W7TRsqoqI=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsMultilineTextCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y9Ygykru9hLCSKdxMZehufFOz4I=
+			/TQLhNblFMTl3xPad7xfZ+o2p1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			JIMzft7wik3TbouTXIUIlYE4I13NpZVJgdHUsPsrQo4=
+			0az9m8qmqozZDN4XVshv5FlP0VO+DSzbsIkbCFMf4ZI=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsScreenShotAlertView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IaKxkN0ZEbPuusGqXtqaC39a+oM=
+			g9OBZY0huCU+HxBBu4JcYPY2Wbg=
 			</data>
 			<key>hash2</key>
 			<data>
-			2H3HjiOwnj8LdgxFS65po/GlXc4KeHe3X7tsWDyUbMs=
+			Xvfveu4395UPCrOpj2G4iVLCQbh4k+E6PRBRISIKzJw=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/HsScreenShotAlertView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G00CM6Cb9OHRFBhlmA0LgpbTdbc=
+			tc1yYzTINkTYHhIBW35LVLfBz8U=
 			</data>
 			<key>hash2</key>
 			<data>
-			J3c8RYhsf3Hs12pPNnqvZYQvRng7QjJNE9o+QBJYjOk=
+			elmaxEOg6Um2NyM/o4rtq6/LzWuRHXP2DFmxlrWnpxI=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LWg1waW4DyivkZ7sRhTvlPQn8p8=
+			s4rVK3oXia0bOggKkCE2O/BEltM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vWbokZMTJNtK1T36+wQQWLkf0mHTyTzDru1wcp9DYmU=
+			BLxzrv+1ytNAgfMxTo8cqdrl+kac6elvLbxFZSOGEgc=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HoDanrIAkml52cSvukojNRjJJhM=
+			+wXu2lTI9DygcSQb/g8l9SfQ87s=
 			</data>
 			<key>hash2</key>
 			<data>
-			9RhySwaGZzOsXkzVB3JvzwWLRd8oYPthJHga35bEg3E=
+			/H6B4WCIKvRt2ymJhPic1CmdNk3dZye2E2jJIFN8T6s=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -2248,22 +2293,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fcfrNyLhWX7tdfOtC8j3HAopHNY=
+			mdzuYz52HHeXkPwkMZrTYXqfIWc=
 			</data>
 			<key>hash2</key>
 			<data>
-			B7Vs+pjOssxKOIp/sgKe17jxEpEMBNVrtmNR3v3Wk+c=
+			Ue+40MQUJFWEsCtqjedkKcwJ3n2Y4uVXdZhncQyDzys=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xueEMqbOecmxEOgdviTrKR64I84=
+			4H3puaDaUtuf61vLWJFJomRCHtA=
 			</data>
 			<key>hash2</key>
 			<data>
-			FCuxP6JjdSMy5sQbsX+g/qbtQ4lNX1YQglyvGGXuVks=
+			POggiDHoO13khA572wvZC7kTyX5oUMpH8w3OkC6HHm0=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/_CodeSignature/CodeSignature</key>
@@ -2281,44 +2326,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yottVYSQItmQkXdTw0ktZj7NZyc=
+			Kw9Fa1xZva0tjfPrfvbWEXDI2Gg=
 			</data>
 			<key>hash2</key>
 			<data>
-			py2O1SNqzOmph+xh4KaGilcMesZfXVf9sfXFGB20CdQ=
+			Ej6I6TwKZk7n4zJlENKod9zGJ+5BelasaQNocVOaWl8=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/7bK-jq-Zjz-view-r7i-6Z-zg0.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eg0QkC06R7tmS9DsAV9M9mn+3g8=
+			K07GF3a0osHbHoQDykt2IDZVBMs=
 			</data>
 			<key>hash2</key>
 			<data>
-			zH/Ki7SXPbNgf0qiaKDCTAwpADeAkiPdQsZ/PUsb5KM=
+			3t4ngZuvVcAVl5yMSl9PGPUQB7AJgEkPma27Arb2+/Q=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/Cfc-rW-4mN-view-ooJ-gc-dI8.nib/objects-9.1+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h9SRNekUBxhBVhuedSZpo3FfIRc=
+			H2hGnIszvqV49igN2wnYsHIYGWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			c7pA863xli1tho3FvEC/Jn0+Q3Lu8SZgRvJQulOmgxo=
+			6kubHRi3OuVfZX/oaj/WRDLQx32jRseBuQvRzMxJBg4=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/Cfc-rW-4mN-view-ooJ-gc-dI8.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9eGfFG6A1MZp1pbJAWDCVNRLnJ4=
+			H2hGnIszvqV49igN2wnYsHIYGWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			WYDAx46F8gA7TYgvIOb/EgKwheFUWqLq4WQGyb3l5+o=
+			6kubHRi3OuVfZX/oaj/WRDLQx32jRseBuQvRzMxJBg4=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/Info.plist</key>
@@ -2336,429 +2381,429 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xxrSmYkfiIux7gIGvePk6FXsy1g=
+			0eTCgkL4sJInci5o4eyPZ1NxGJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			B/hjyN9TKpiizD5WWGTFwKV6s6F/ibCYYOumCOykUjk=
+			UBh5g9rp1M4tO56RItE9eRuvCGJDM7R2MW91/t57+lI=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/hsCampaignDetailController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gq4B+zpo5L1Sd84JmS7LReEzoZE=
+			0eTCgkL4sJInci5o4eyPZ1NxGJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			tjRbsTfWWWKNFQ7fQzsfEmzJQ6OnlzXDf3cqSti3NZo=
+			UBh5g9rp1M4tO56RItE9eRuvCGJDM7R2MW91/t57+lI=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/hsCampaignsInboxNavigationController.nib/objects-9.1+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cYXEq/MD0QpQo+AWRzeOyjxqMfk=
+			gw3WXIaQ+oYK7J0shO9bfkNq84Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			sI8twbhZRM5w9gaJ1k+5N+og+gDQhWxihBMhne5VXSE=
+			21Stm7drOpLQwcjg573ZS+YKVZRhFOaIrzP+ese/6+A=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsCampaignsInbox.storyboardc/hsCampaignsInboxNavigationController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xPhArTaiCmN+g+HvQHwlNfSHUA4=
+			E2E8ohroQz2C294iS1Y2ux+qn68=
 			</data>
 			<key>hash2</key>
 			<data>
-			X2NhzWEutU4n8SJP/RHyG14a9fbHtQYV+DT9RH4tcn4=
+			EUsJWcQl5nI5Xmz1DQ+tlGwf3LuNLN7yVMsUsmmmV2k=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsContactUsFooterView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w9+13eXb1PL1b9hj9WgvrO33XEA=
+			YwjnjNGS9c0gkJkRn+7H/gsaBLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q95Ujy2mzSS7mwon+VkrhVqSml7RFVLfZI9XIVmYBIA=
+			ccspT1PgyrDpPFRkv8QUGa51YcsU4BScM7N4BqHXQac=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/Ak4-Ms-8aq-view-8K9-9e-O81.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lcXQSfp8u7E9sbABAN+197IyvHs=
+			FddnHJ98HrkeApx7cWsP6sEt3N4=
 			</data>
 			<key>hash2</key>
 			<data>
-			3eFixPeKgmGHWobryM+T4QcTO6v3uE1znry/kmASmm8=
+			Yx4e7/+I4QeQoPnAQBpp41DqibcZxnMOKqPVWBLJ0JM=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/Ak4-Ms-8aq-view-8K9-9e-O81.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+qLJ4WOveEd10c0udnkLhwHL424=
+			FddnHJ98HrkeApx7cWsP6sEt3N4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6QcCw8bDsrcVYHUCM/rycSKFNEMjQ0LjOG80i8/eZpU=
+			Yx4e7/+I4QeQoPnAQBpp41DqibcZxnMOKqPVWBLJ0JM=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/HSIOSAuthenticationFailedView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bxS9IvwNYOd27AtxuL5v1XTii3o=
+			vB+RoVxbXQZvwJmm1JbsExRxNLQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			EYirPpMKmb2IQdKF41fb3um9spRVvDE5yqI0FqFv9Xw=
+			BLWft9k3e3jDYho5el7OMh4Bj6oZlJJMkpyVHZ3O790=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/HSIOSAuthenticationFailedView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nBDE5FxCKvkn/4IWWeOtxNRO+1c=
+			vB+RoVxbXQZvwJmm1JbsExRxNLQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZwUOoFOKWW+6mmYsJ5JMNjDzwaOzW6EkV68odHE6JS4=
+			BLWft9k3e3jDYho5el7OMh4Bj6oZlJJMkpyVHZ3O790=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/HsIssueDetailViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2xob9R6vHfHcOmroog7JisD6iLo=
+			LXqjCTmyebgX0fgsjN+ZPli61c4=
 			</data>
 			<key>hash2</key>
 			<data>
-			VL9mpDYc8BxlNnXaepKKL79PxsB8BS8d9I4F6+jfGlI=
+			oNHgHYvwHUuHsKGZEnI+niBv+6D0vMdVps62kce21Zw=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/HsIssueDetailViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TJkqZsAhDlVEnqcYeeQHPWoPMsQ=
+			LXqjCTmyebgX0fgsjN+ZPli61c4=
 			</data>
 			<key>hash2</key>
 			<data>
-			2ZNkgFXHCKhCzGXYvyfEQXN6v7N2HxmodYsuIFQ09PI=
+			oNHgHYvwHUuHsKGZEnI+niBv+6D0vMdVps62kce21Zw=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a6yQYz2PCw3+gy9etZt15nT7k0I=
+			to4yG3oIzkbzLa1qFOkZNWCloZk=
 			</data>
 			<key>hash2</key>
 			<data>
-			HgoLeWblCUGwOKKHr8ttOr4gOthiNDERnVwGebwvL40=
+			PaAvEb0YYEaNJ3h9TDnoWH31w7G9wRT3dxD8JTJme7U=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/OgE-Vo-gH7-view-t7p-Vv-oLv.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ir7sG3eLpGmkOWp+cdHkov2a8pI=
+			N6eS8q5+7UPhPtEV+PRke4K13PE=
 			</data>
 			<key>hash2</key>
 			<data>
-			rikTqIboqHCsMStyWdtJC1f4626+306I9ZftUIjAAUA=
+			CELGAtFF7wL+qgobV3yLzjFwAzZmY8bgUAqUr99bt+Y=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/OgE-Vo-gH7-view-t7p-Vv-oLv.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/mdS22hT/ldAUDg/s6JqEmU7zXA=
+			N6eS8q5+7UPhPtEV+PRke4K13PE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VDWd3AraZDEtvhtk3BlH3RTOEOXZjcyOIhTjwWGc6Ls=
+			CELGAtFF7wL+qgobV3yLzjFwAzZmY8bgUAqUr99bt+Y=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/QRo-wa-nns-view-Sgn-gW-9hG.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aR/TxFS8AHRdFCAtiS0LkY9r74Q=
+			RoqSWA3AbXuSc2PSjzQsjz0PBgU=
 			</data>
 			<key>hash2</key>
 			<data>
-			H4KfN3qJC2zOnriQW/LkV7t+0GzyPOs5xUqTJtKJxMA=
+			XDxOEe3cCskOwFUpl0maUKqWwLiZJCfvGuLOnAPnZu4=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/QRo-wa-nns-view-Sgn-gW-9hG.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vypRSPTYRyuyMAWwBa1m7wzKn+A=
+			RoqSWA3AbXuSc2PSjzQsjz0PBgU=
 			</data>
 			<key>hash2</key>
 			<data>
-			BNwirwAwhKLrD8DzjbQOHH2j7oIH0iDlpExVQi1vRCc=
+			XDxOEe3cCskOwFUpl0maUKqWwLiZJCfvGuLOnAPnZu4=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/W3c-II-I4p-view-Khs-L2-CB4.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L5yp4WkCboQSVz/1i6SIgEThJBw=
+			jhLHnZ3N3Zc4yijF9RtIoIk3uNI=
 			</data>
 			<key>hash2</key>
 			<data>
-			45gHzZ6FkvfCZTorNEMNKRY1sXDM68cmnRzytaVONy8=
+			0B12BT9giPYRp79o2KM5TNPXYab3gzo51bs9tSXrpo8=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/W3c-II-I4p-view-Khs-L2-CB4.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Eo3XfpU6f8ENV1mnCEEwxfH0jec=
+			ha2XSWFH/IWZmNFoODg8o/8DQvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			3M4rwb+AozBOWeafx8u/RZhVaeO/+Aq6q9jX3Xebi60=
+			AgAzXpFWEbMmQPFXGxqUXqIJ7uDKzDgeMO9ZiYgaFmI=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/bHR-0N-y1O-view-lu5-pN-Qww.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cl8E6vsh/52xGgwG60qy+GYWoAU=
+			HuRjFYkMbCv1jQx9A042Nh5Fd4g=
 			</data>
 			<key>hash2</key>
 			<data>
-			T572BplzKGgBhohJeu4+gDJCJMhVlLej6hB3JF9QY+I=
+			pqte/e3W+X2EdEv+ouzNcs5tz2iyp1k5oGiAxso6CR0=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/bHR-0N-y1O-view-lu5-pN-Qww.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mgYsAMfxTI9sdyTZX4kwZhbFBXM=
+			HuRjFYkMbCv1jQx9A042Nh5Fd4g=
 			</data>
 			<key>hash2</key>
 			<data>
-			lTYhIwil0doQsD3bx2ayq8c3cF/kEUI03xL4LIxw+rU=
+			pqte/e3W+X2EdEv+ouzNcs5tz2iyp1k5oGiAxso6CR0=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsFAQListViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W6ajlbECuAAr61fqcINJUn1u+4s=
+			r7f8Pl5yJGDEBLzGdxcUoDmfKCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			AFSZWFj9n5S4QBdRiwtaGwf8kLTU+Nl3Lat+TDSSSfA=
+			N2ivYf8zorUtifofscI/VSxxRH6ldfp2+pucdRsMMFc=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsFAQListViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r4Ae+ebXQSjF9nhrren1+Rz8rEw=
+			r7f8Pl5yJGDEBLzGdxcUoDmfKCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			FeWfnfcYoP09RgYEqVyWDAzxyLhqzh5SOw75CcWw6SU=
+			N2ivYf8zorUtifofscI/VSxxRH6ldfp2+pucdRsMMFc=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSectionsListViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			twK1aaIsplM7sq5xXMYM3bsQbRA=
+			ALrBvsJEHZ+1TmIeanWq+F7MCiw=
 			</data>
 			<key>hash2</key>
 			<data>
-			JmW4H89/OApq25jJ3xz+Y11BZGKwFP6YS+q0q116F+4=
+			QlYh7Hf0JUxGRfVa5dGdScVzNmTbQUbP1qGbL5lQw1s=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSectionsListViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iynQp1nuBH05ONs+shKvoDoH6a8=
+			ALrBvsJEHZ+1TmIeanWq+F7MCiw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bGeVqcvJ5m8vdV57lD6cQ1FFJMPgPbxzAdwC3IzPHjU=
+			QlYh7Hf0JUxGRfVa5dGdScVzNmTbQUbP1qGbL5lQw1s=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSingleFaqViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p2uw072d7PPcA47vcpF+ez+OgqU=
+			ORjbfGTXw6ipsrXTqgKpFng2KHw=
 			</data>
 			<key>hash2</key>
 			<data>
-			HndaqjYPzDJoMxXuxNzFyOQVBfsQtQqqn/yAaVmIlOs=
+			EK29Jg2SEmItB4fSXPdsA5jWGfDy/lxGMAZ2itFZGZo=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSingleFaqViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zYHePwOzRSAjkbhZkig+CyXohUM=
+			ORjbfGTXw6ipsrXTqgKpFng2KHw=
 			</data>
 			<key>hash2</key>
 			<data>
-			SyoaKRoTXULvoflDAeTS49/Onc0C2B3jRM33rkI5Jaw=
+			EK29Jg2SEmItB4fSXPdsA5jWGfDy/lxGMAZ2itFZGZo=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSuggestionsVC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l48fCumCVKe/Ek9h2oRZJZ2VH2Q=
+			he5ygOKl0r5ct4XTvnLHN18IlZ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			A3gjasDQ2Vu06dMtZS5Oo70xbp/dfCi/nXByDewm6XU=
+			kDGgAxzCpQ/x+TS4gE9BOAyoHovRxZn7UjApjnADkj8=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSuggestionsVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2Djdsad8Dg7S5TdpHe1W0Sy4ln8=
+			he5ygOKl0r5ct4XTvnLHN18IlZ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			/54OQQ0XF4yufpe/VmYD8FXZHdm1d9wWSULNYR/OSMk=
+			kDGgAxzCpQ/x+TS4gE9BOAyoHovRxZn7UjApjnADkj8=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSupportMainNavigationController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C7sYI83bZJGAyjp2nImPIbL2Kr8=
+			utKi6UNP8Z92oHnH0ZvhTQFAz8k=
 			</data>
 			<key>hash2</key>
 			<data>
-			fSxmaMQ0mOypBVGmXQNuEETta73B0g15tPaAv7qoQyw=
+			sKpyS3eSo4ovQmK1OZj82/5df73k3mNbcvZandLqyDc=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsSupportMainNavigationController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bFVSKh5kyA5GiOnQ01dGq4fRaeY=
+			utKi6UNP8Z92oHnH0ZvhTQFAz8k=
 			</data>
 			<key>hash2</key>
 			<data>
-			rMhRr9j4aA+WCHPz/HOjCk0HAKZdy/kXGnnmCocg/A0=
+			sKpyS3eSo4ovQmK1OZj82/5df73k3mNbcvZandLqyDc=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsiosconvsetupviewcontroller.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4LFz6jy+admb/t+MjPqzEO85Xpw=
+			ExfL8W3J8oOFyvAZFq5VkDkyg6Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			UaIcR7eve0IYjUDaSIOqQup3N4In2KnI2NVXDnR50bc=
+			nNXSWY11MKw6oggFSLm8e6e3AuR6WFaJwKpffY1ivzQ=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/hsiosconvsetupviewcontroller.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DMK6YfpuUzi4g16qaKVy8/i6Bog=
+			ExfL8W3J8oOFyvAZFq5VkDkyg6Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			dWBqIKgT+bm3H+fk2SpwPz0M9kmKnqkha0rtb+ZdoCU=
+			nNXSWY11MKw6oggFSLm8e6e3AuR6WFaJwKpffY1ivzQ=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/kqH-f0-u8v-view-kNu-le-aXA.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kXgv7LtclqYKjQcyOc7gYUC/rPc=
+			ErLqf6y+g6pOG5t/Ohdzw54x/DU=
 			</data>
 			<key>hash2</key>
 			<data>
-			E8dqSI/fjMdicF/5qmeKlQTD/a6BdcMMj/U0eoryx7c=
+			BFcXqA4bJATiLr4knAtWmL1cBwG8UBIMmMUoipm+mrA=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/kqH-f0-u8v-view-kNu-le-aXA.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xVF6tHIlNaMAcunJaPjUN7Q6E5s=
+			ErLqf6y+g6pOG5t/Ohdzw54x/DU=
 			</data>
 			<key>hash2</key>
 			<data>
-			rZSmb26mZFDGGx/+pq3Uh9PDlhSjO2Jf8E2408Yol48=
+			BFcXqA4bJATiLr4knAtWmL1cBwG8UBIMmMUoipm+mrA=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/nqW-ce-fee-view-IgF-ja-Jdj.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yAtJKKv46GrgC7ObX39TAWcp86k=
+			iYErYafahXuXHYOAqgjqojY/60I=
 			</data>
 			<key>hash2</key>
 			<data>
-			LExxnFkujrtuMYuhAgOJp3tJcDCaxCzfc8wx/n6+8yg=
+			F1ll7tuWMXOhKa4vwqsRwzHKnxc/lZk59ChNr94pT+8=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/nqW-ce-fee-view-IgF-ja-Jdj.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			73wyEHxa8RCtX8ZgzEVpibJqoRQ=
+			iYErYafahXuXHYOAqgjqojY/60I=
 			</data>
 			<key>hash2</key>
 			<data>
-			KydwYZRvnb9945vfLhGZuJGWLPAHbDoqheyVLZmtIy8=
+			F1ll7tuWMXOhKa4vwqsRwzHKnxc/lZk59ChNr94pT+8=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/oOr-js-j6c-view-kMw-KJ-TSz.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZtpNQz2FeBhvn+53XtrB5pkQcHM=
+			ReBn4zZ7+WnKf1CB0R9+CKj1d6o=
 			</data>
 			<key>hash2</key>
 			<data>
-			rT3KZagMIo3jN8G/zZKeqC9o1xaZmSbraUmx53SqjxE=
+			rOVaN0+s7F5K1COrp0CDIvaje9s7fdc5kITg/qjSkts=
 			</data>
 		</dict>
 		<key>HsUIResources.bundle/hsSupportMain.storyboardc/oOr-js-j6c-view-kMw-KJ-TSz.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dtO7nm0MRcXN3xSpY7Z6pqgt3wM=
+			ReBn4zZ7+WnKf1CB0R9+CKj1d6o=
 			</data>
 			<key>hash2</key>
 			<data>
-			+udGWEzY4ymZNFY3emaziFYSnu8NY8DxZjAJg3jNlE4=
+			rOVaN0+s7F5K1COrp0CDIvaje9s7fdc5kITg/qjSkts=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tnu6yocOQdXGh0GWzh/46mUnVhY=
+			BWCCiYb2v1v5Uz4RNxR+Araxfoc=
 			</data>
 			<key>hash2</key>
 			<data>
-			4RzAmivUQAUIAOBEGe8vu7FoprxKGAZDUMz7L1pxj4c=
+			TGGR250Eo2gl+I5S6HD8M9h0MOmx7OnkW2m5rANJBTA=
 			</data>
 		</dict>
 	</dict>

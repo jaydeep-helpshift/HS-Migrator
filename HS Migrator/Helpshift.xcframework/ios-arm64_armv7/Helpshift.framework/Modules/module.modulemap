@@ -1,5 +1,5 @@
 framework module Helpshift {
-    umbrella header "Support.h"
+    umbrella header "Helpshift.h"
     export *
 }
 
